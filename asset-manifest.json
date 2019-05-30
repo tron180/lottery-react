@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lottery-react/static/css/main.e0ce4c25.chunk.css",
+    "main.js": "/lottery-react/static/js/main.6446420f.chunk.js",
+    "main.js.map": "/lottery-react/static/js/main.6446420f.chunk.js.map",
+    "runtime~main.js": "/lottery-react/static/js/runtime~main.e04e6bb0.js",
+    "runtime~main.js.map": "/lottery-react/static/js/runtime~main.e04e6bb0.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/lottery-react/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/lottery-react/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/lottery-react/index.html",
+    "precache-manifest.a5a6448f8c01e5d21ee04a2d302e0034.js": "/lottery-react/precache-manifest.a5a6448f8c01e5d21ee04a2d302e0034.js",
+    "service-worker.js": "/lottery-react/service-worker.js",
+    "static/css/main.e0ce4c25.chunk.css.map": "/lottery-react/static/css/main.e0ce4c25.chunk.css.map"
+  }
+}
